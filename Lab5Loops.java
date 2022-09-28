@@ -16,7 +16,7 @@ public class Lab5Loops {
 		//Creates Table title
 		while(counter<200) {
 		//will keep looping until counter is greater than or equal to 200
-		System.out.printf("    %-3d             %-4.1f%n",counter,(counter *1.1));
+		System.out.printf("    %-3d             %-4.1f%n",counter,(counter *2.2));
 		//Displays kilograms and the converted weight in pounds
 		counter+=2;
 		//increases counter in increments of 2
